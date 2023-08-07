@@ -2,6 +2,9 @@ h1, h2, h3{
     color: green;
     font-weight: bold;
 }
+h4 {
+    font-weight: bold;
+}
 
 body {
     font-family: sans-serif;
